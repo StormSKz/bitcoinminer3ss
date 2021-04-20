@@ -1886,7 +1886,7 @@ teleport:Button("GenEX",function()
 end)
 
 teleport:Button("ptiX",function()
-   game.Players.localPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-258.946014, 42.7833252, 13752.4746, -8.10623169e-06, 0.642762303, 0.766065598, -1, -8.10623169e-06, -3.78489494e-06, 3.78489494e-06, -0.766065598, 0.642762303)
+   game.Players.localPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-258.946014, 36.7833252, 13752.4746, -8.10623169e-06, 0.642762303, 0.766065598, -1, -8.10623169e-06, -3.78489494e-06, 3.78489494e-06, -0.766065598, 0.642762303)
 end)
 
 teleport:Button("Solaris Electronics",function()
